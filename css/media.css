@@ -1,0 +1,280 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header part css*/
+	.navbar-nav{
+		text-align: right;
+	}
+	.navbar-nav li{
+		padding: 0px !important;
+	}
+.banner_content h6{
+	padding-top:10px;
+	padding-bottom: 0px;
+}
+.banner_content h1{
+    font-size: 35px;
+    line-height:35px;   
+}
+.banner_content p{
+	font-size: 14px;
+	padding-bottom: 20px;
+}
+.play_btn a .i_shadow{
+	height: 28px;
+	width: 28px;
+
+}
+.banner_btn .ban_btn1 {
+	font-size: 12px;
+}
+.banner_btn {
+	justify-content: center;
+}
+.play_btn a {
+	padding-left: 30px;
+}
+/*selling section */
+.seling_body{
+	margin-top: 30px !important;
+}
+.selbg_img{
+	display: none;
+}
+/*book part start*/
+.book_are{
+	padding-right: 0px;
+}
+.book_bg{
+	display: none;
+}
+
+/*clint logo section*/
+.center .slick-slide:not(.slick-center) img {
+    opacity: 0;
+    transform: scale(0);
+    pointer-events: none;
+  }
+    /*subscribe part*/
+.input_pattern4{
+	display: none !important ; 
+}
+
+#inputemail{
+	width: 200px;
+}
+.footer_body{
+	padding: 0px 100px;
+	text-align: center;
+}
+/*review part css*/
+.review_nav {
+    top: 30%;
+    right: 10px;
+}
+
+
+
+
+
+
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	/*header part css*/
+	.navbar-nav{
+		text-align: right;
+	}
+	.navbar-nav li{
+		padding: 0px !important;
+	}
+/*banner part start*/
+.banner_content h6{
+	padding-top:10px;
+	padding-bottom: 0px;
+}
+.banner_content h1{
+    font-size: 20px;
+    line-height:20px;   
+}
+.banner_content p{
+	font-size: 10px;
+	padding-bottom: 20px;
+}
+.play_btn a .i_shadow{
+	height: 28px;
+	width: 28px;
+
+}
+.banner_btn .ban_btn1 {
+	font-size: 12px;
+}
+/*selling section */
+.seling_body{
+	margin-top: 30px !important;
+}
+.selbg_img{
+	display: none;
+}
+/*book part start*/
+.book_are{
+	padding-right: 0px;
+}
+.book_bg{
+	display: none;
+}
+/*review part css*/
+.review_nav {
+    top: 30%;
+    right: -20px;
+}
+
+
+/*clint logo section*/
+.center .slick-slide:not(.slick-center) img {
+    opacity: 0;
+    transform: scale(0);
+    pointer-events: none;
+  }
+  /*subscribe part*/
+.input_pattern4{
+	display: none !important ; 
+}
+.footer_body{
+	padding: 0px 100px;
+	text-align: center;
+}
+
+
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	/*header part css*/
+	.navbar-nav{
+		text-align: right;
+	}
+	.navbar-nav li{
+		display: inline-block !important;
+		padding: 0px !important;
+	}
+	.navbar-nav li a{
+		text-align: right;
+	}
+
+ /*banner part start*/
+.banner_content h6{
+	padding-top: 30px;
+	padding-bottom: 10px;
+}
+.banner_content h1{
+    font-size: 40px;
+    line-height:40px;   
+}
+.banner_content p{
+	font-size: 10px;
+	padding-bottom: 20px;
+}
+.play_btn a .i_shadow{
+	height: 32px;
+	width: 32px;
+
+}
+.banner_btn .ban_btn1 {
+	font-size: 12px;
+}
+/*selling section */
+.seling_body{
+	margin-top: 30px !important;
+}
+/*book part start*/
+.book_are{
+	padding-right: 50px;
+}
+/*book part start*/
+.book_are{
+	padding-right: 0px;
+}
+/*review part css*/
+.review_nav {
+    top: 30%;
+    right: -20px;
+}
+
+
+/*subscribe part*/
+.input_pattern4{
+	display: none !important ; 
+}
+.footer_body{
+	padding: 0px 150px;
+}
+.footer_body{
+	padding: 0px 100px;
+	text-align: center;
+}
+
+
+
+
+}
+/* Extra large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+ 
+ /*banner part start*/
+.banner_content h6{
+	padding-top: 50px;
+	padding-bottom: 15px;
+}
+.banner_content h1{
+    font-size: 50px;
+    line-height:60px;   
+}
+.banner_content p{
+	font-size: 12px;
+	padding-bottom: 30px;
+}
+.play_btn a .i_shadow{
+	height: 35px;
+	width: 35px;
+
+}
+/*categaroy section start*/
+.catego_body {
+	font-size: 10px;
+	padding: 5px !important;
+}
+.catego_body h5{
+	font-size: 18px;
+	
+}
+.catego_body p{
+	font-size: 10px;
+	padding: 0px;
+}
+.bg_img2{
+	left: 300px;
+
+}
+/*book part start*/
+.book_are{
+	padding-right: 100px;
+}
+
+
+
+
+
+ }
+/* Extra large devices (desktops, 992px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+ 
+
+
+
+
+ }
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}

@@ -33,6 +33,10 @@
 .play_btn a {
 	padding-left: 30px;
 }
+/*category section*/
+.catego_body{
+	margin-bottom: 20px;
+}	
 /*selling section */
 .seling_body{
 	margin-top: 30px !important;
@@ -276,5 +280,6 @@
  }
 /* Extra Extra large devices (large desktops, 1400px and up)*/
 @media (min-width: 1400px) {
+
 
 }
